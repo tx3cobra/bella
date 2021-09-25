@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="XHANAFIX.COM" tvg-logo="https://xhanafix.com/wp-content/uploads/2020/12/for-email-sign.jpg" group-title="xhanafix",XHANAFIX.COM
-https://xhanafix.com/wp-content/uploads/2021/01/outro.mp4
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="TV1" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="MALAYSIA",TV1
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 tvg-name="TV2" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="MALAYSIA",TV2
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv1.png" group-title="ASTRO",TV1
+http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv2.png" group-title="ASTRO",TV2
+http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
 https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/TV3.m3u8
 #EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia",Berita RTM 
