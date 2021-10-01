@@ -92,6 +92,8 @@ https://link.zozotv.xyz:443/@suhadaahmad12/9966T/272
 https://link.zozotv.xyz:443/@suhadaahmad12/9966T/36
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Citra-B" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="MALAYSIA",Citra-B
 https://link.zozotv.xyz:443/@suhadaahmad12/9966T/37
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra-C" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxJ9W4ZSIG9nY8BiB8IlCyYYvokYhzhmqEGbQjkrcTQeoZOXw0sV1xCm486gZAcczuw&usqp=CAU" group-title="MALAYSIA",Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="MALAYSIA",BOO
 https://link.zozotv.xyz:443/@suhadaahmad12/9966T/2
 #EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Aura" tvg-logo="https://i.ibb.co/D4YHLf6/58T.png" group-title="MALAYSIA",Aura
