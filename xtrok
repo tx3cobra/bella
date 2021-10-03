@@ -37,16 +37,22 @@ EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-A" tvg-logo="https://i.ibb.co/7JY39jm/ZS
 https://link.zozotv.xyz:443/@suhadaahmad12/9966T/13
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-B" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="MALAYSIA",TV1-B
 https://link.zozotv.xyz:443/@suhadaahmad12/9966T/14
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest/scale-to-width-down/656?cb=20200525153311",TV1
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2-A" tvg-logo="https://i.ibb.co/hBdcT78/TV2.png" group-title="MALAYSIA",TV2-A
 https://link.zozotv.xyz:443/@suhadaahmad12/9966T/15
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2-B" tvg-logo="https://i.ibb.co/hBdcT78/TV2.png" group-title="MALAYSIA",TV2-B
 https://link.zozotv.xyz:443/@suhadaahmad12/9966T/16
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/102_300.png/revision/latest/scale-to-width-down/300?cb=20160501084045",TV2
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3-A" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA",TV3-A
 https://link.zozotv.xyz:443/@suhadaahmad12/9966T/17
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3-B" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA",TV3-B
 https://link.zozotv.xyz:443/@suhadaahmad12/9966T/18
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3-C" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA",TV3-C
 https://link.zozotv.xyz:443/@suhadaahmad12/9966T/19
+#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
+https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/TV3.m3u8
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/sjr34f7/cyts.png" group-title="MALAYSIA",NTV7
 https://link.zozotv.xyz:443/@suhadaahmad12/9966T/20
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://i.ibb.co/3N3JfSz/8.png" group-title="MALAYSIA",8TV
