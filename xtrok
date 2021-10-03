@@ -80,10 +80,14 @@ https://link.zozotv.xyz:443/@suhadaahmad12/9966T/30
 https://link.zozotv.xyz:443/@suhadaahmad12/9966T/31
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria-B" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA",astroCeria
 https://link.zozotv.xyz:443/@suhadaahmad12/9966T/32
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOIj3xdCYCZWFF9PmI0_SEnaOhixxnUAN6CCrjTiiVQ-oCr2EA-mMqEOUf534IswTOQ&usqp=CAU" group-title="MALAYSIA",Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Ria" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Ria
 https://link.zozotv.xyz:443/@suhadaahmad12/9966T/11
 #EXTINF:-1 tvg-id="" tvg-name="Ria-B" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Ria
 https://link.zozotv.xyz:443/@suhadaahmad12/9966T/340
+#EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="AstroPrima" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="MALAYSIA",Prima
 https://link.zozotv.xyz:443/@suhadaahmad12/9966T/33
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Prima-B" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="MALAYSIA",Prima-B
