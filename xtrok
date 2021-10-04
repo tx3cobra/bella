@@ -68,16 +68,16 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest/scale-to-width-down/293?cb=20190111152445",Astro Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Malaysia",Astro Warna
-http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+#EXTINF:-1 tvg-id="Astro Warna.my" tvg-name="AstroWarna.my" tvg-logo=https://i.postimg.cc/L4chmgTD/download-80.png" group-title="Malaysia" ,Astro Warna
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6740
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra-C" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxJ9W4ZSIG9nY8BiB8IlCyYYvokYhzhmqEGbQjkrcTQeoZOXw0sV1xCm486gZAcczuw&usqp=CAU" group-title="MALAYSIA",Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-id="404" tvg-name="BOO-A" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg" group-title="ASTRO",BOO-A
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 group-title="Astro TV" tvg-logo="http://tvmalaysia.cc:80/images/5e587cd56b42bd16285dfddb2c63c5e7.png",ASTRO Aura HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
-#EXTINF:-1 group-title="Astro TV" tvg-logo="http://tvmalaysia.cc:80/images/04b0e81075a4d2dc4d9dba2411a42b77.png",ASTRO Rania HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
+#EXTINF:-1 group-title="Astro TV" tvg-logo="https://i.postimg.cc/J7fzxn38/download-90.jpg",ASTRO Aura HD
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6713
+#EXTINF:-1 group-title="Astro TV" tvg-logo="https://i.postimg.cc/LXvjfPgm/download-91.jpg",ASTRO Rania HD
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6729
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Naura_Channel_125_Logo.png/revision/latest/scale-to-width-down/300?cb=20190108161305",Naura HD
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroHello.my" tvg-name="Hello" tvg-logo="https://i.ibb.co/HqZSS6q/gwse.png" group-title="MALAYSIA",Hello
