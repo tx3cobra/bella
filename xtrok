@@ -779,26 +779,6 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Tawaf TV" tvg-logo="https://i.ibb.co/gzJKj9R/TW.png" group-title="OTHERS",Tawaf TV
-https://link.zozotv.xyz:443/@suhadaahmad12/9966T/172
-#EXTINF:-1 tvg-id="" tvg-name="TVBS" tvg-logo="https://i.ibb.co/7gNWs3h/vvv.png" group-title="CHINESE",TVBS
-https://link.zozotv.xyz:443/@suhadaahmad12/9966T/270
-#EXTINF:-1 tvg-id="" tvg-name="Phoenix Chinese Channel" tvg-logo="https://i.ibb.co/Mk09LYX/po.png" group-title="CHINESE",Phoenix Chinese Channel
-https://link.zozotv.xyz:443/@suhadaahmad12/9966T/269
-#EXTINF:-1 tvg-id="" tvg-name="Cbeebies" tvg-logo="https://i.ibb.co/YZDxCg2/ddddddd.png" group-title="KIDS",Cbeebies
-https://link.zozotv.xyz:443/@suhadaahmad12/9966T/273
-#EXTINF:-1 tvg-id="" tvg-name="SBS International" tvg-logo="https://i.ibb.co/drt0RnZ/sbs.png" group-title="KOREA",SBS International
-https://link.zozotv.xyz:443/@suhadaahmad12/9966T/275
-#EXTINF:-1 tvg-id="" tvg-name="SBS Plus" tvg-logo="https://i.ibb.co/tQ8LD0C/sbsp.png" group-title="KOREA",SBS Plus
-https://link.zozotv.xyz:443/@suhadaahmad12/9966T/276
-#EXTINF:-1 tvg-id="" tvg-name="JTBC" tvg-logo="https://i.ibb.co/FwjcytL/tbc.png" group-title="KOREA",JTBC
-https://link.zozotv.xyz:443/@suhadaahmad12/9966T/274
-#EXTINF:-1 tvg-id="" tvg-name="Test" tvg-logo="" group-title="MALAYSIA",Test
-https://link.zozotv.xyz:443/@suhadaahmad12/9966T/303
-#EXTINF:-1 tvg-id="" tvg-name="Weilai Movie" tvg-logo="https://i.ibb.co/F5BrdZK/zz.png" group-title="CHINESE",Weilai Movie
-https://link.zozotv.xyz:443/@suhadaahmad12/9966T/268
-
-.
 #EXTM3U
 #EXTINF:-1 tvg-id="Astro ShuangXing.my" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" tvg-url="" group-title="Malaysia",Astro Shuang Xing
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
