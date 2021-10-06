@@ -347,8 +347,16 @@ http://iptv.tvmalaysia.cc:80/penang189/penang189/8999
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="cinemaworld" tvg-name="cinemaworld HD" tvg-language="English" tvg-logo="https://i.postimg.cc/nrByxyQJ/cw.png" group-title="Movies2",CINEMA WORLD
+https://www.dropbox.com/s/ilct0631l53c8ha/cinemaworld.m3u8?dl=1
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Sony Pix" tvg-name="Sony Pix" tvg-logo="https://i.postimg.cc/SxZxvmSF/Sony-PIX.png" group-title="Movies2",Sony Pix
 http://ahaohoo.com/.1/tv1/play.php?id=2700&e=.m3u8
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
