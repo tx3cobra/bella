@@ -1190,21 +1190,8 @@ http://212.102.60.76/n2/mono.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/IytaaVV.jpg" group-title="Movie",Hallmark Movies & Mysteries
 #http://212.102.60.76/q2/mono.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/Star_chinese_movies_legend.png" group-title="Movie Until 30 September 2021", SCML
-http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
-#EXTINF:- 1 tvg-id="SCM" tvg-name="SCM" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" grup-title="Movie Until 30 September 2021",  SCM
-http://www.1314lm.com/mylive/102/2061/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/BabyTV.png/270px-BabyTV.png" group-title="Kids Until 30 September 2021", BABY TV
 http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3ZwRfff/images-18.png" group-title="Movie Until 30 September 2021", Fox Movies
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/50
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRQFXzcN/download-2021-09-21-T100933-922.png" group-title="Movie Until 30 September 2021", Fox Action Movies
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/20
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJQpsTj6/images-17.png" group-title="Movie Until 30 September 2021", Fox Family Movies
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/131
-#EXTINF:-1 tvg-logo="" group-title="Movie Until 30 September 2021", Fox Life
-http://198.16.106.62:8278/streams/d/Foxlife/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rciggYQ.jpg" group-title="TV Mandarin",HUNAN
