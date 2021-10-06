@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/main/astro.xml free
 #EXTM3U url-tvg="https://bit.ly/3yx3KgT
 #EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz
-
+#EXTM3U url-tvg=https://macan.tv/xmltv.php?username=epg&password=epg
 
 ShamBentong ADMIN CHANNEL IKUT T&C
 
