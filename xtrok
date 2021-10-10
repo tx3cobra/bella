@@ -608,7 +608,7 @@ http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 # http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
  
 #EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/812.png/revision/latest?cb=20200520222551",812 Astro SuperSport 2 HD
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+# http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
 http://iptv.tvmalaysia.cc:80/live/737373/737373/6710.ts
 # http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
