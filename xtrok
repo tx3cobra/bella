@@ -617,7 +617,7 @@ http://iptv.tvmalaysia.cc:80/live/737373/737373/6710.ts
 # http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6711
 http://iptv.tvmalaysia.cc:80/live/737373/737373/6711.ts
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+# http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
  
 #EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Astro_Supersport_4_2015.png/revision/latest?cb=20180622080127",814 Astro SuperSport 4 HD
 # http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
