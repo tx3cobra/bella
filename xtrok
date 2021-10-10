@@ -603,7 +603,8 @@ http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
  
 #EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/200?cb=20210802132424",811 Astro SuperSport HD 
 # http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6708
+#http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6708
+#http://iptv.tvmalaysia.cc:80/live/737373/737373/6708.ts
 # http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
  
 #EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/812.png/revision/latest?cb=20200520222551",812 Astro SuperSport 2 HD
@@ -622,7 +623,7 @@ http://iptv.tvmalaysia.cc:80/live/737373/737373/6711.ts
 # http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6712
 http://iptv.tvmalaysia.cc:80/live/737373/737373/6712.ts
-#http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+# http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",CHANNEL SPORT LUAR NEGARA
 https://www.youtube.com/channel/UCHkI-mTPYoudubEVKOuo5Pw/videos
@@ -1241,41 +1242,23 @@ https://rtm7hdhbbtv.secureswiftcontent.com/Origin3/ngrp:RTM3/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RXHbGdz/download-2021-09-17-T013326-411.jpg" group-title="Malaysia", Astro Tayangan Hebat Thangathirai
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/10461
 
-//// Astro 25.my ////
-
-#EXTINF:-1 tvg-id="Astro 25.my" tvg-name="Astro 25" tvg-country="MY" tvg-language="Campuran" tvg-logo="https://i.postimg.cc/qqkhmbfK/download-2021-09-21-T101923-100.png" group-title="New Channel",Astro 25
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8676
-#EXTINF:-1 tvg-id="Astro PrimeTime.my" tvg-name="Astro PrimeTime" tvg-country="MY" tvg-language="English" tvg-logo="https://i.postimg.cc/Pr7JZrqY/images-4.jpg" group-title="New Channel",Astro PrimeTime
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8545
-#EXTINF:-1 tvg-id="Astro Showcase Movies.my" tvg-name="Astro Showcase Movies" tvg-country="MY" tvg-language="Campuran" tvg-logo="https://i.postimg.cc/xdn2NWLL/maxresdefault.jpg" group-title="New Channel",Astro Showcase Movies
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/8543
-
-//// Hypptv ////
-
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-title="Hypptv", Salam HD
-http://starshare.live:8080/live/567890/567890/19027.ts
-#EXTINF:-1 tvg-logo=https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"  tvg-title="Hypptv" , Hypp Inspirasi HD
-http://tigerfights.xyz:80/anh/123/2599367.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" tvg-title="Hypptv" , Hypp Sensasi HD
-http://tigerfights.xyz:80/anh/123/2599368.ts
-
 //// India & Pakistan ////
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/330px-Colors_tv2017.png" group-title="India & Pakistan", Colors TV 
 http://93.190.139.35:8277/streams/d/Colorhd/playlist.m3u8
-EXTINF:-1  tvg-logo=https://i.postimg.cc/Xq4SbbCF/4867316278001.png" grup-title="India & Pakistan" , SONY SAB
+#EXTINF:-1  tvg-logo=https://i.postimg.cc/Xq4SbbCF/4867316278001.png" grup-title="India & Pakistan" , SONY SAB
 https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
-EXTINF:-1 tvg-id="Sony Entertaiment" tvg-name="Sony Entertaiment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/SET_Asia_logo.svg/210px-SET_Asia_logo.svg.png" group-title="India & Pakistan", Sony Entertainment
+#EXTINF:-1 tvg-id="Sony Entertaiment" tvg-name="Sony Entertaiment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/SET_Asia_logo.svg/210px-SET_Asia_logo.svg.png" group-title="India & Pakistan", Sony Entertainment
 https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
-EXTINF:-1 tvg-id="StarPlusHD.in" tvg-name="Star Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="India & Pakistan", Star Plus HD
+#EXTINF:-1 tvg-id="StarPlusHD.in" tvg-name="Star Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="India & Pakistan", Star Plus HD
 http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png" group-title="India & Pakistan",Colors Cineplex(TEST)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png" group-title="India & Pakistan",Colors Cineplex(TEST)
 http://iptv.tvmalaysia.cc:80/139664/139664/6768
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Colors_Tamil.png" group-title="India & Pakistan",Colors Tamil(TEST)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Colors_Tamil.png" group-title="India & Pakistan",Colors Tamil(TEST)
 http://iptv.tvmalaysia.cc:80/139664/139664/6716
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123" group-title="India & Pakistan",Jaya Max(TEST)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Jaya_Max.jpeg/revision/latest/scale-to-width-down/250?cb=20191224113123" group-title="India & Pakistan",Jaya Max(TEST)
 http://iptv.tvmalaysia.cc:80/139664/139664/6802
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/HD.SMU.jpg" group-title="India & Pakistan",Sun Music(TEST)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/HD.SMU.jpg" group-title="India & Pakistan",Sun Music(TEST)
 http://iptv.tvmalaysia.cc:80/139664/139664/6831
 
 //// Singapore ////
