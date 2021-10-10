@@ -594,10 +594,9 @@ https://www.youtube.com/channel/UCHkI-mTPYoudubEVKOuo5Pw/videos
 #EXTINF:-1 group-title="SPORT" tvg-logo = "https://www.dropbox.com/s/2ftc484hfwu230l/FightBox.png?dl=1", FIGHT BOX
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo = "https://www.dropbox.com/s/lz1saqscj4246qz/wwe.jpg?dl=1", WWE
-http://stream.tvtap.live:8081/live/wwe.stream/playlist.m3u8
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORT" tvg-logo = "https://www.dropbox.com/s/lz1saqscj4246qz/wwe.jpg?dl=1", WWE2
-http://stream.tvtap.live:8081/live/wwe.stream/playlist.m3u8
 https://www.livedoomovie.com/02_WWE_720p/chunklist.m3u8
 #EXTINF: -1 tvg-id="801" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Astro_Arena.png/revision/latest?cb=20180622080600",801 Astro Arena
 # http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
