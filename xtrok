@@ -890,6 +890,259 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/Iqra TV.png" group-title="AGAMA & Mengaji",Iqra TV
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
 
+//// Religi 2 ////
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="RELIGI" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/tawaf-tv.png", Muhammadiyah TV V+
+https://akamai.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="RELIGI" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/muhammadiyah-tv.png", Tawaf TV V+
+https://akamai.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="RELIGI"group-title="RELIGI" tvg-logo="https://www.dropbox.com/s/545cl49v6blvqc8/Muslim_TV_%282020%29.png?dl=1", muslim TV V+
+https://akamai.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="RELIGI"group-title="RELIGI" tvg-logo="https://www.dropbox.com/s/o61ukgw2t61yq86/lifetv.png?dl=1", LIFE V+
+https://akamai.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="RELIGI"  tvg-logo="https://www.dropbox.com/s/pjs6l1i9t5bz0g8/alquran.png?dl=1", ALQUR'AN V+
+https://akamai.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="RELIGI"  tvg-logo="https://www.dropbox.com/s/o07y1haolhnfjme/EWTN.jpg?dl=1", EWTN V+
+https://akamai.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="RELIGI"  tvg-logo="https://www.dropbox.com/s/cucrftuij1f6le7/TV9.png?dl=1", TV9 V+
+https://akamai.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="RELIGI"  tvg-logo="https://www.dropbox.com/s/zkei3ublal4pq06/remofed21.jpg?dl=1", REMOFED 21 V+
+https://akamai.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+
+//// MTV ////
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="MUSIK" tvg-logo = "https://www.dropbox.com/s/3h3el0l9dg9pq8z/Music_Channel_%282016-.n.v.%29.png?dl=1", MUSICTV V+
+https://akamai.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="MUSIK" tvg-logo = "https://www.dropbox.com/s/mc71f6vpjv757b5/Channel_V_Logo.svg.png?dl=1", CHANNEL V+
+https://akamai.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qTCFbii.jpg" tvg-id="BathokGpc" tvg-name="musica" group-title="MUSIK", MALLEO
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShLhiaq_qKJnVjmogg7QWaHm1cOyXpuo8Y2A&usqp=CAU" tvg-id="BathokGpc" tvg-name="musica" group-title="MUSIK", Pop Musik
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gXNuLktfPgu7dlF062qXKKGSH2M=/filters:quality(90)/vidio-web-prod-channel/uploads/channel/image/426/musica-s-studio-60dbb5.jpg" group-title="MUSIK",MUSICA
+http://gpc.my.id/vidio/musica.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_pramborstv_big1.png?v=2.0.0.13" group-title="MUSIK", Prambors
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZxsMR6B/ikonser.png" group-title="MUSIK", iKONSER
+http://dituduhmaling.xyz/US33T4/ikonser.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9798tHc82V3ub4rQCpsQcq8L6cI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6840/mola-sports-free-9b67d7.jpg" group-title="MUSIK",Magna TV
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://www.dropbox.com/s/pv8jri42pg1bva2/zing.jpg?dl=1", ZING V+
+#https://akamai.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd
+http://gpc.my.id/vidio/zing.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqzvWhx0/unnamed.png" group-title="MUSIK",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqzvWhx0/unnamed.png" group-title="MUSIK",BOX HITS
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+ 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://ecable.tv/wp-content/uploads/2019/02/1.png" group-title="Music",Afrobeats 24/7
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://barazaradio.com/wp-content/uploads/2019/10/logo-300x300.png" group-title="Music",Baraza Classic
+https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-gqqocQj-_pI/VRLfFV1bJFI/AAAAAAAAARI/vHexq1CZ3r8/s1600/CMC-Music-Channel.png" group-title="Music",California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="Music",Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1 tvg-ID="CHV.Asia" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="Music",Channel [V]
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/60/31/1f/60311f70-f70f-e3f8-4735-a23e176be0eb/contsched.igfutmsk.lsr/1024x1024bb.jpg" group-title="Music",Ditty TV
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22782/latido-music/logo_20191212_200115.png" group-title="Music",Latido Music
+https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://undergroundbass.co.uk/image/koollondon.png" group-title="Music",Kool London Radio
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="Music",Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="Music",Retro Plus TV 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://musicfouryou.com/wp-content/uploads/2015/09/imageedit_1_8709468454.gif" group-title="Music",Music4U
+http://203.154.243.89:1213
+#EXTINF:-1 tvg-id="" tvg-logo="https://radiou.com/wp-content/uploads/2018/06/RadioUSiteFooterTransparent.png" group-title="Music",Radio U TV
+https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://dealood.com/content/uploads/images/June2019/sunburn[1]" group-title="Music",Sunburn TV
+https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.vibee.tv/wp-content/uploads/2019/03/logo_v2beat_page_small-1-2.png" group-title="Music",V2BEAT TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/NRJ_Hits_2017.svg.png/revision/latest?cb=20190621214935" group-title="Music",NRJ Hits
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w531424568_b1431072.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.vibee.tv/wp-content/uploads/2019/03/logo_v2beat_page_small-1-2.png" group-title="Music",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.vibee.tv/wp-content/uploads/2019/03/logo_v2beat_page_small-1-2.png" group-title="Music",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.vibee.tv/wp-content/uploads/2019/03/logo_v2beat_page_small-1-2.png" group-title="Music",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.vibee.tv/wp-content/uploads/2019/03/logo_v2beat_page_small-1-2.png" group-title="Music",MTV Spankin' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.vibee.tv/wp-content/uploads/2019/03/logo_v2beat_page_small-1-2.png" group-title="Music",MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+ 
+
+//// Radio ////
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/whb4utLhtp.png" group-title="RADIO INDO+", Era FM
+http://astro2.rastream.com/era
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/U64mECYBuK.jpg" group-title="RADIO INDO+", Hitz FM
+http://astro2.rastream.com/hitz
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/cyqqphe6KP.png" group-title="RADIO INDO+", Hot FM
+http://mediaprima.rastream.com/mediaprima-hotfm?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Amediaprima-hotfm&playerid=Hot%20FM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzkxMDQyNzY1MDUsImV4cCI6M
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/bTs87kV.png" group-title="RADIO INDO+", Sinar FM
+http://astro2.rastream.com/sinar
+
+#EXTINF:-1 group-title="RADIO INDO+" ch-number="956" tvg-id="CHN" tvg-chno="956" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/z7NxkSb6",988
+https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC.aac?DIST=TuneIn
+
+#EXTINF:-1 group-title="RADIO INDO+" ch-number="958" tvg-id="CHN" tvg-chno="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac?DIST=TuneIn
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.mytuner.mobi/media/radios/aYVbJaEnPR.png" group-title="RADIO INDO+", Thr Gegar
+http://astro2.rastream.com/gegar
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9s6FzV2.png" group-title="RADIO INDO+", PRAMBORS
+http://masima.rastream.com/masima-pramborsjakarta
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1AT0FH6.png" group-title="RADIO INDO+", ARDAN RADIO 
+http://listento.ardanradio.com:1059/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uIyrxIp.png" group-title="RADIO INDO+", OZ RADIO
+http://s3.vinhostmedia.com:1031/;stream/1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YeE917q.png" group-title="RADIO INDO+", FEMALE RADIO
+http://masima.rastream.com/masima-femaleradio
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bTs87kV.png" group-title="RADIO INDO+", I RADIO
+http://cloudstreaming.mramedia.com:8000/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sFypqIP.png" group-title="RADIO INDO+", HARD ROCK FM
+http://cloudstreaming.mramedia.com:8001/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4QarMHJ.png" group-title="RADIO INDO+", TRAXX FM
+http://cloudstreaming.mramedia.com:8003/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5AeEXc.png" group-title="RADIO INDO+", VIRGIN RADIO
+http://14933.live.streamtheworld.com/VIRGINRADAAC_SC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3XvCPjN.png" group-title="RADIO INDO+", COSMOPOLITAN FM
+http://cloudstreaming.mramedia.com:8002/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sxOB1Gs.png" group-title="RADIO INDO+", BAHANA FM
+http://103.16.199.177:8102/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KkqllU1.png" group-title="RADIO INDO+", HITZ FM
+https://s2.radio.co/s6929cb202/listen
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CKhSJnQ.png" group-title="RADIO INDO+", RDI FM
+http://202.147.199.99:8000/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2WZLMZM.png" group-title="RADIO INDO+", IROCK
+https://streamer.radio.co/s493283a7e/listen
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8kccVev.png" group-title="RADIO INDO+", PULSE EDM
+http://naxos.cdnstream.com/1373_128
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e4pYhmg.png" group-title="RADIO INDO+", MIX 247 EDM
+http://217.116.9.142:9222/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vi1QWUy.png" group-title="RADIO INDO+", NEXUS DANCE
+http://icecast2.nexusradio.fm/nexusdance.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HY50Ytl.png" group-title="RADIO INDO+", EURODANCE CLASSIC
+http://hazel.torontocast.com:1310/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3sZbPlr.png" group-title="RADIO INDO+", THE RAP MIXX US
+http://ais-sa2.cdnstream1.com/1988_64.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xAmzoXi.png" group-title="RADIO INDO+", RADIO ROCK ON
+http://streaming.radiostreamlive.com/radiorockon_devices
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7DXA2Zz.png" group-title="RADIO INDO+", HOT HITZ US
+http://69.4.234.186:9070/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zWh5lr1.png" group-title="RADIO INDO+", TODAY'S HITS US
+http://19353.live.streamtheworld.com/977_HITSAAC_SC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dNT2CQy.png" group-title="RADIO INDO+", RADIO HITS AU
+http://18573.live.streamtheworld.com/T_RAD_HITS_S01_SC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2rgFTRe.png" group-title="RADIO INDO+", BEAM FM US
+http://mp3.beamfm.net:8004/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i524Hou.jpg" group-title="RADIO INDO+", ADDITED TO RADIO US
+http://wms-15.streamsrus.com:9710/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tUg7yH9.png" group-title="RADIO INDO+", 011 FM US
+http://listen.011fm.com:8034/stream18
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gR3yJ16.png" group-title="RADIO INDO+", 1 FM
+http://strm112.1.fm/top40_mobile_mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AXkwoUM.png" group-title="RADIO INDO+", BOP HITS AU
+http://onair15.xdevel.com:7154/1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lkhuXcy.jpg" group-title="RADIO INDO+", KISS HITS CA
+http://144.217.253.136:8590/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RulVaDv.png" group-title="RADIO INDO+", CHROMA RADIO
+http://chromaradio.com:8042/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uc3CoY0.jpg" group-title="RADIO INDO+", RADIO CITY INTERNATIONAL
+http://16153.live.streamtheworld.com/SAM04AAC280_SC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4UllBI8.jpg" group-title="RADIO INDO+", HITS RADIO
+https://stream-al.planetradio.co.uk/hits.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FCSodmt.png" group-title="RADIO INDO+", ACE RADIO
+http://bigrradio.cdnstream1.com/5121_48
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQjJ75o.png" group-title="RADIO INDO+", 538 HITZONE
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3?dist=mytuner
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hvZcivV.jpg" group-title="RADIO INDO+", Q MUSIC
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop40_32.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0edCLbp.png" group-title="RADIO INDO+", RMF 2 POP PL
+http://195.150.20.242:8000/rmf_2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v4LTOhf.jpg" group-title="RADIO INDO+", SKUIZZ HITS
+http://traxx010.ice.infomaniak.ch/traxx010-low.mp3
+
+
 //// Astro Backup ////
 
 #EXTM3U
