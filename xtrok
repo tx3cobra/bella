@@ -8,7 +8,7 @@ ShamBentong ADMIN CHANNEL IKUT T&C
 
 
 
-#EXTINF:-1 tvg-id="411" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/The_death.png/564px-The_death.png" tvg-name="SHAMBENTONG TV" group-title="ASTRO",SHAMBENTONG TV ADMIN CHANNEL
+#EXTINF:-1 tvg-id="411" tvg-logo="https://www.dropbox.com/s/lz1saqscj4246qz/wwe.jpg?dl=1" tvg-name="SHAMBENTONG TV" group-title="ASTRO",SHAMBENTONG TV ADMIN CHANNEL
 <!--#EXTINF:-1 tvg-id="411" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" tvg-name="SHAMBENTONG TV" group-title="ASTRO",SHAMBENTONG TV ADMIN CHANNEL
 https://liveorigin01.hbogoasia.com:8  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png", Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -18,9 +18,9 @@ https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mp
 
 
 
-#EXTINF:-1 tvg-id="CHN" group-title="kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png", Disney Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
+<!--#EXTINF:-1 tvg-id="CHN" group-title="kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png", Disney Channel
+<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
 
 
