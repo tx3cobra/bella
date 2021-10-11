@@ -8,8 +8,8 @@ ShamBentong ADMIN CHANNEL IKUT T&C
 
 
 
-
-#EXTINF:-1 tvg-id="411" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" tvg-name="SHAMBENTONG TV" group-title="ASTRO",SHAMBENTONG TV ADMIN CHANNEL
+#EXTINF:-1 tvg-id="411" tvg-logo="https://en.wikipedia.org/wiki/Ford_Motor_Company#/media/File:Ford_logo_flat.svg" tvg-name="SHAMBENTONG TV" group-title="ASTRO",SHAMBENTONG TV ADMIN CHANNEL
+<!--#EXTINF:-1 tvg-id="411" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" tvg-name="SHAMBENTONG TV" group-title="ASTRO",SHAMBENTONG TV ADMIN CHANNEL
 https://liveorigin01.hbogoasia.com:8  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png", Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
@@ -24,13 +24,13 @@ https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mp
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
 
 
-#EXTINF:-1  group-title="kids",Disney Junior 
+<!--#EXTINF:-1  group-title="kids",Disney Junior 
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 
 
 #
 
-#EXTINF:0, Animax
+<!--#EXTINF:0, Animax
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065984
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest/scale-to-width-down/656?cb=20200525153311",TV1
@@ -544,9 +544,9 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremiu
 <!--#EXTINF:-1 tvg-id="DisneyChannel.MACAN" tvg-name="Disney Channel" tvg-logo="https://i.ibb.co/D1cGfRm/gcj.png" group-title="Kids",Disney Channel
 <!--https://akamai.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-id="DisneyJunior.MACAN" tvg-name="Disney Junior" tvg-logo="https://i.ibb.co/hghFSVF/CAzX.png" group-title="Kids",Disney Junior
+<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+<!--#EXTINF:-1 tvg-id="DisneyJunior.MACAN" tvg-name="Disney Junior" tvg-logo="https://i.ibb.co/hghFSVF/CAzX.png" group-title="Kids",Disney Junior
 https://akamai.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
 
 <!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
@@ -564,9 +564,9 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.
 #EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/YbKLSR1/gtfj.png" group-title="Kids",Boomerang
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="DREAMWORKS.MACAN" tvg-name="DREAMWORKS" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202011/20201125/202011250800095510sa.png" group-title="Kids",DREAMWORKS
+<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+<!--#EXTINF:-1 tvg-id="DREAMWORKS.MACAN" tvg-name="DREAMWORKS" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202011/20201125/202011250800095510sa.png" group-title="Kids",DREAMWORKS
 http://dituduhmaling.xyz/US33T4/dreamworks.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1356,7 +1356,7 @@ https://streams.simpaisa.com:8443/pitvlive4/cartoonengnew.smil/playlist.m3u8
 http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/7imquVM.png" group-title="KIDS", Nick junior
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-#EXTINF:-1 tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/s3X6mtC/disneyxd-lean-paps.png" group-title="KIDS,"DISNEY XD
+<!--#EXTINF:-1 tvg-name="DISNEY XD" tvg-logo="https://i.ibb.co/s3X6mtC/disneyxd-lean-paps.png" group-title="KIDS,"DISNEY XD
 http://stream.tvtap.live:8081/live/disneyxd.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Super!" tvg-logo="https://i.postimg.cc/1RK88CBh/Super-logo-2021-svg.png" group-title="KIDS",Super !
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
