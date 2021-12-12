@@ -57,15 +57,18 @@ https://rtm7hdhbbtv.secureswiftcontent.com/Origin3/ngrp:RTM3/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Okey" tvg-logo="https://i.ibb.co/bbVfKQT/ae.png" group-title="ASTRO1",Okey
 https://rtm2hdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8
 #EXTINF:-1 tvg-id="Awesome" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="ASTRO1",Awesome TV
+http://iptv.tvmalaysia.cc:80/321456/321456/9016
 #http://iptv.tvmalaysia.cc/jalan8/jalan8/9016
 http://iptv.tvmalaysia.cc:80/297340/297340/9016
 http://50.7.17.176:61980/myplay/c_58014/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 #EXTINF:-1 tvg-ID="dramasangat.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="ASTRO1",DRAMA SANGAT
 https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3u8
 #EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Alhijrah" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="ASTRO1",Alhijrah
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-<!---http://iptv.tvmalaysia.cc:80/422072/422072/6834
-
+http://iptv.tvmalaysia.cc:80/422072/422072/6834
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGFk
+#EXTINF:-1 group-title="ASTRO1" tvg-id="Al-Hijrah" tvg-chno="114" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",114 TV Alhijrah
+http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
 
 #EXTINF:-1 tvg-id="TVIkim.my" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="ASTRO1",TV Ikim FHD
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
@@ -84,6 +87,8 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO1" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
 http://iptv.tvmalaysia.cc:80/422072/422072/6730
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO1" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA2
+http://iptv.tvmalaysia.cc:80/321456/321456/6730
 
 #EXTINF:-1 group-title="ASTRO1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest/scale-to-width-down/293?cb=20190111152445",Astro Prima
 http://iptv.tvmalaysia.cc:80/422072/422072/6727
@@ -516,8 +521,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9f
 #EXTINF:-1, group-title="Wayang Melayu" tvg-logo="http://filmindonesia.or.id/public/upload/img/movie/primary/title/cubitcubitan.jpg",Cubit Cubitan Elvy Sukaesih indonesia klasik
 https://www.googleapis.com/drive/v3/files/1-8eKJOG22Dc4N9j-MAJ03fE5ZXYsshLK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
+#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/01/AvbE67kjH7aeXKMTCdULIfw6U28-150x225.jpg",The Doll Indonesia horror
+https://www.googleapis.com/drive/v3/files/1-a2UKe27bo-SNIFd1M97usOJq2iEwNb1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 tvg-logo="https://content1.jdmagicbox.com/comp/jd_social/news/2020feb12/image-435292-n44ck2nc90.jpg?fit=around|210:308&crop=210:308;*,*" group-title="Wayang Melayu", JAGA POCONG (2018)
 https://www.googleapis.com/drive/v3/files/1A8eGJeRDuqtrfJL8l9eMBxf8pNVoE54D?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="https://ww123.pencurimovies.xyz/wp-content/uploads/2021/11/eR4MDbv9lnwOXmqXPy4B7uSipUx-152x228.jpg",Prebet Lapok
+https://www.googleapis.com/drive/v3/files/1-ep8ORyZbADlBt8b3Af3DOcxy2vwiM0n?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="https://walter.trakt.tv/images/movies/000/132/031/posters/thumb/4d035deb47.jpg.webp",Setinggan 1981
+https://www.googleapis.com/drive/v3/files/1-i0b9x-Q7-GkEwruIAZYUGi75c96Ggsq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1, group-title="Wayang Melayu" tvg-logo="https://telegra.ph/file/521f96cbc505fa6e79750.jpg",Penunggang Agama PPVHD 720p [Malay Sub]
 https://f2lpadubot.herokuapp.com/1694229264714204/Penunggang.Agama.2021.1080p.PPVHD.mkv
@@ -556,6 +570,9 @@ http://admin.nf21.net/go/files/18809
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY0NzgzYzctYWQwMC00MzM2LThjNGMtZjFjMWUyNzg0ZmM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" group-title="VOD 2021", Army of the Dead (2021)
 http://admin.nf21.net/go/files/19051
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMyMzQ1ODM1MF5BMl5BanBnXkFtZTcwMjE2MTQxOQ@@._V1_.jpg" group-title="VOD 2021", Oz The Great And Powerful 2013
+https://www.googleapis.com/drive/v3/files/1-zuMH3XvmEPH-5JEKyS-gzMXd36Ooz1k?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 tvg-logo="https://img.vxdn.net/p-max/200/the-patriot-6497.jpg" group-title="VOD 2021", The Patriot (2000)
 http://srv9.nf21.net/files/14-2018-06-25-b7a6f626f774070c8a902c0cba4b7196.mp4
 
@@ -582,6 +599,9 @@ https://www.googleapis.com/drive/v3/files/1AZiwvsrM_KNw2h2M-PhwE27QHhqhWDme?alt=
 
 
 /// VOD ANIMASI ///
+#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="https://img.movies2watch.tv/xxrz/250x400/279/e2/bb/e2bb2db630a54adde484fde7ccdd08df/e2bb2db630a54adde484fde7ccdd08df.jpg",Tinkerbell The Pirate fairy
+https://www.googleapis.com/drive/v3/files/1-nMz-8URZARM1XmLX1Nqo1_PNLi7iihd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KVqx7pd.jpg",A Shaun the Sheep Movie: Farmageddon (2019)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960866
 
@@ -623,9 +643,18 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960996
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/3l7FGKHDanLhEI1ECdmzK9LnJrj.jpg" group-title="HINDI VOD", Radhe
 https://www.googleapis.com/drive/v3/files/1u4kMAEBmDvc7tIHwX-yYTbK6qNsakeyJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
+#EXTINF:-1 tvg-logo="https://img.hindimovies.to/thumbnail/R/Raaz-20022.jpg" group-title="HINDI VOD", RAAZ 2002
+https://www.googleapis.com/drive/v3/files/1-gTMu0zNogomoM7XSTt66pTW0WwNh1ZC?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 /// Thai Movie Comedy ///
 #EXTINF:-1 tvg-logo="https://walter.trakt.tv/images/movies/000/316/670/posters/thumb/3024b354a6.jpg.webp" group-title="Thai Movie Comedy", Grandmother 2016
 https://www.googleapis.com/drive/v3/files/1-Mot8cGUPpIN5N1AkxoY7qfHlE-lVVLO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/N__A3jycNgo55AihL5wTpM3wLAE=/212x315/filters:quality(75)/vidio-web-prod-film/uploads/film/image_portrait/245/pee-mak-ea6ac1.jpg" group-title="Thai Movie Comedy", PEE MAK
+https://www.googleapis.com/drive/v3/files/1-duE3uiiSeWvByH_ZF4hWuzj3_CkuZS5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i3.wp.com/139.99.61.225/wp-content/uploads/2020/01/qSo1HaR0vaAK8TdGZK7fA2V3xu1-60x90.jpg" group-title="Thai Movie Comedy", SOMTAM/Muay thai giant
+https://www.googleapis.com/drive/v3/files/10ADhjk350Ejd0bSwahoqhnfFE5-HpJ5H?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 ///Classic Movie ///
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwroIl6oyw_dzWxi4tzgDSTdsroeQ_Jo7hVhtOzdYl3lwQn6bo_xKoaKXlNhZJYn3uY6w&usqp=CAU" group-title="Classic Movie", The Great Escape (1963)
@@ -633,6 +662,9 @@ https://www.googleapis.com/drive/v3/files/1fRgWDK5pB1Bu0PYrbSrGcq2scBdcC5Uu?alt=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWE8esaQEjyaYnC8eErTGycdE1xTpb6RaUL6BOuGAuZpm0xznQbfZ9Ww55M5-PPpdXaZ4&usqp=CAU" group-title="Classic Movie", The Great Race (1965)
 https://p2p-ns1.sage.stream/hls/the-great-race-1965-sub/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://xxiku.com/wp-content/uploads/2021/08/3XhaLFBoj9VuNVjTmjaO39qVQIj-60x90.jpg" group-title="Classic Movie", Willow 1988
+https://www.googleapis.com/drive/v3/files/1-rcOvkmMA260q9v4yLf3PHl3KwqZm5FW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 ///// Hindi /////
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -881,13 +913,15 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.jpg" group-title="Lifestyle",AFN
 http://iptv.tvmalaysia.cc:80/422072/422072/6693
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/afn.png" group-title="Lifestyle",Asian Food Network
-https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
-https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+http://iptv.tvmalaysia.cc:80/321456/321456/6693
+<!--https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+<!--https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
 
-#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" group-title="Lifestyle",Food Network HD 
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="Food Network HD" tvg-logo="https://i.postimg.cc/HnmQp48s/Food-Network-New-Logo.png" group-title="Lifestyle",Food Network HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6785
+
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" group-title="Lifestyle",Food Network HD2 
 http://livetv2021.site:8080/9897876765/6576567/8843
 https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/food.network.usa.eastern.us.m3u8
 
